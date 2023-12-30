@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thisaru Supun</h1>
 <!-- <div align="center"><img src="https://github.com/thisarusupun/thisarusupun/blob/main/gb3.jpg"></div> -->
 <h3 align="center">A Passionate Full-Stack Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://github.com/thisarusupun/thisarusupun/blob/main/Python-Web-Development.gif">
+<img align="right" alt="Coding" width="200" src="https://github.com/thisarusupun/thisarusupun/blob/main/Python-Web-Development.gif">
 
 
 
