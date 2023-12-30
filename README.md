@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @thisarusupun
+- 👨‍🎓 I'm an Engineering graduate of the University of Moratuwa, Sri Lanka
+- 👀 I’m interested in Software Engineering
+- 🌱 I’m currently learning Web Development
+- 📫 How to reach me via email thisarusupun1314@gmail.com
