@@ -11,7 +11,7 @@
 
 - 👀 I’m interested in **Software Engineering**
 
-- 📫 How to reach me **thisarusupun1314@gmail.com** <a href="thisarusupun1314@gmail.com">Mail</a>
+- 📫 How to reach me **thisarusupun1314@gmail.com** <a href="mailto:thisarusupun1314@gmail.com">Mail</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
