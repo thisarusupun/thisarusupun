@@ -11,7 +11,7 @@
 
 - 👀 I’m interested in **Software Engineering**
 
-- 📫 How to reach me <a href="mailto:thisarusupun1314@gmail.com">Mail</a>
+- 📫 How to reach me <a href="mailto:thisarusupun1314@gmail.com">thisarusupun1314@gmail.com</a>
 
 - 🌐 Checkout my portfolio <a href="https://thisarusupun-portfolio1.netlify.app/">Click here</a>
 
