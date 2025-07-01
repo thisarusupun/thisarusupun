@@ -52,7 +52,7 @@
 
   <!-- Portfolio -->
   <a href="https://thisarusupun-portfolio1.netlify.app/" target="_blank">
-    <code><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Web.SVG" alt="Portfolio" height="40" style="margin-right: 20px;" /></code>
+    <code>🌐</code>
   </a>
 
   <!-- Twitter -->
