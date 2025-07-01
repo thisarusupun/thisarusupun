@@ -42,12 +42,12 @@
 <p align="left">
   <!-- Gmail -->
   <a href="mailto:thisarusupun1314@gmail.com" target="_blank">
-    <code><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Gmail.png" alt="Gmail" height="40" style="margin-right: 20px;" /></code>
+    <code><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Gmail.png" alt="Gmail" height="20" style="margin-right: 20px;" /></code>
   </a>
 
   <!-- LinkedIn -->
   <a href="https://linkedin.com/in/thisarusupun" target="_blank">
-    <code><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" style="margin-right: 20px;" /></code>
+    <code><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="20" style="margin-right: 20px;" /></code>
   </a>
 
   <!-- Portfolio -->
@@ -57,22 +57,22 @@
 
   <!-- Twitter -->
   <a href="https://twitter.com/thisarusupun" target="_blank">
-    <code><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" style="margin-right: 20px;" /></code>
+    <code><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="20" style="margin-right: 20px;" /></code>
   </a>
 
   <!-- Facebook -->
   <a href="https://fb.com/thisarusc" target="_blank">
-    <code><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" style="margin-right: 20px;" /></code>
+    <code><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="20" style="margin-right: 20px;" /></code>
   </a>
 
   <!-- Instagram -->
   <a href="https://instagram.com/thisaru_supun" target="_blank">
-    <code><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" style="margin-right: 20px;" /></code>
+    <code><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="20" style="margin-right: 20px;" /></code>
   </a>
 
   <!-- LeetCode -->
   <a href="https://www.leetcode.com/thisarusupun" target="_blank">
-    <code><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" style="margin-right: 20px;" /></code>
+    <code><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="20" style="margin-right: 20px;" /></code>
   </a>
 </p>
 
