@@ -16,7 +16,7 @@
 </p>
 
 <!-- 🧰 Frameworks & Libraries -->
-<p align="left">
+<p align="middle">
   <a href="https://spring.io/projects/spring-boot" target="_blank"><img style="margin-right: 15px;" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" height="40"/></a>
   <a href="https://kafka.apache.org/" target="_blank"><img style="margin-right: 15px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="Kafka" width="40" height="40"/></a>
   <a href="https://reactjs.org/" target="_blank"><img style="margin-right: 15px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/></a>
@@ -35,7 +35,7 @@
 </p>
 
 <!-- ☁️ DevOps & Tools -->
-<p align="left">
+<p align="middle">
   <a href="https://www.docker.com/" target="_blank"><img style="margin-right: 15px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/></a>
   <a href="https://kubernetes.io/" target="_blank"><img style="margin-right: 15px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/></a>
   <a href="https://aws.amazon.com/" target="_blank"><img style="margin-right: 15px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/></a>
